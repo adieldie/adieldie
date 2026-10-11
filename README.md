@@ -1,3 +1,7 @@
+![Adiel Alves — Automação, sistemas e suporte de TI. Circuito ilustrativo: dados, regras e resultado.](assets/profile-banner.gif)
+
+[Ver capa sem animação](assets/profile-banner.png)
+
 # Adiel Alves
 
 ### Automação, sistemas e suporte de TI

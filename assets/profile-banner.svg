@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Adiel Alves — Automação, sistemas e suporte de TI</title>
+<desc id="desc">Capa original com um circuito discreto representando dados, regras e resultado.</desc>
+<rect width="1000" height="300" rx="18" fill="#081521"/>
+<path d="M24 58V24H58 M942 24H976V58 M976 242V276H942 M58 276H24V242" fill="none" stroke="#31d9e8" stroke-width="2"/>
+<path d="M600 50H925 M600 250H925" stroke="#173543" fill="none"/>
+<g fill="#c3d5df" font-family="DejaVu Sans,sans-serif">
+<text x="56" y="70" font-size="13" letter-spacing="3" fill="#42dbea">DA ROTINA AO CÓDIGO</text>
+<text x="53" y="136" font-size="49" font-weight="bold" fill="#f5fbff">Adiel Alves</text>
+<text x="56" y="178" font-size="20">Automação, sistemas e suporte de TI</text>
+<text x="56" y="219" font-size="14" fill="#8fabbb">Python · JavaScript · SQL · APIs</text>
+</g>
+<path d="M639 140H724 M764 140H849" fill="none" stroke="#28616d" stroke-width="2"/>
+<g fill="#102b39" stroke="#3895a2" stroke-width="1.5">
+<rect x="599" y="115" width="50" height="50" rx="12"/>
+<rect x="719" y="110" width="60" height="60" rx="14"/>
+<rect x="849" y="115" width="50" height="50" rx="12"/>
+</g>
+<g fill="none" stroke="#59e4eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M613 129H635 M613 140H635 M613 151H627"/>
+<path d="M739 128L729 140L739 152 M759 128L769 140L759 152 M752 126L746 154"/>
+<path d="M862 140L871 149L886 131"/>
+</g>
+<g text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="12" letter-spacing="1" fill="#aac3cd">
+<text x="624" y="196">DADOS</text><text x="749" y="196">REGRAS</text><text x="874" y="196">RESULTADO</text>
+</g>
+</svg>
